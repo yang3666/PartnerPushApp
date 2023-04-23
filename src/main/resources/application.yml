@@ -18,7 +18,7 @@ wx:
 spring:
   datasource:
     driver-class-name: com.mysql.cj.jdbc.Driver
-    url: jdbc:mysql://${MYSQL_ADDRESS}/${MYSQL_DATABASE:partnerpush}
-    username: ${MYSQL_USERNAME}
-    password: ${MySQL_PASSWORD}
+    url: jdbc:mysql://sh-cynosdbmysql-grp-0cofr8ke.sql.tencentcdb.com:20620/partnerpush
+    username: root
+    password: Jyztmdshuai666
 
